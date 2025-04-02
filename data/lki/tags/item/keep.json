@@ -2,7 +2,8 @@
   "values": [
     {"required": false, "id":"#lkmi:travelers_backpack"},
     {"required": false, "id":"#comforts:sleeping_bags"},
-    {"required": false, "id":"#minecraft:compasses"}
+    {"required": false, "id":"#minecraft:compasses"},
+    {"required": false, "id":"#create:toolboxes"}
   ],
   "replace": false
 }
