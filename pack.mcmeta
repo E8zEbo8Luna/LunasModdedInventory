@@ -1,6 +1,6 @@
 {
   "pack":{
-    "description": "A compatability pack for LKP"
+    "description": "A compatability pack for LKP",
     "pack_format": 71,
     "supported_formats": {"min_inclusive": 48, "max_inclusive": 71}
   }
